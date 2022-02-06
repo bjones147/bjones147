@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bjones147
+- 👀 I’m interested in coding, dirtbiking, working out, and Jungian psychology
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me email me @ Jonsey306@live.com
